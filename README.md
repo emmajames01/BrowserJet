@@ -34,18 +34,3 @@ Get a screenshot
 You can also capture your screen into the image by clicking on the capture icon. This allows you to save the information you need while browsing the web with a different geo-location.
 
 I’ve tried using BrowserJet as my main browser for a full month now and the team is definitely on the right track. The design emphasizes simplicity, but there are also a few playful touches like the option to save credentials and view the same URL on multiple tabs.
-- John Whitfield
-- John Whitfield
-BrowserJet is perfect for power users and might just be the browser I was looking for. As a data analyst I have to change my sessions to surf one portal at the same time and BrowserJet is the only one I know of that allows me to browse this way.
-- Keith Woodbury
-- Keith Woodbury
-Just started using this browser, it has lots of nifty little features already built in, including screen shots and the ability to open any website in mobile view. I prefer using BrowserJet over others because of these small additions. Highly recommend it.
-- Christopher Phillips
-- Christopher Phillips
-I’ve used the trial version of BrowserJet as my main browser for a full day now and the team is definitely on the right track. The design emphasizes simplicity, but there are also a few playful touches like the option to save credentials and viewing the same URL on multiple tabs.
-- Lucas M. Lerner
-- Lucas M. Lerner
-I’ve tried using BrowserJet as my main browser for a full month now and the team is definitely on the right track. The design emphasizes simplicity, but there are also a few playful touches like the option to save credentials and view the same URL on multiple tabs.
-- John Whitfield
-- John Whitfield
-BrowserJet is perfect for power users and might just be the browser I was looking for. As a data analyst I have to change my sessions to surf one portal at the same time and BrowserJet is the only one I know of that allows me to browse this way
